@@ -1,2 +1,0 @@
-# cMaps
-Biotechnology cMaps
